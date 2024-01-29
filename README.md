@@ -1,3 +1,3 @@
 # Calculator
-This is my 1st project Github
+I developed this project by using html css and js 
 Hope you like it..
